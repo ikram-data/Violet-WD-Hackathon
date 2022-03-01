@@ -27,4 +27,4 @@ We created our own index to measure inequality.
 
 ## Conclusions
 
-![image](Women + Data Hackathon certificate - Team Violet.png)
+![image]('Women + Data Hackathon certificate - Team Violet.png')
