@@ -4,6 +4,8 @@ Slides: [Progress Towards Reducing Global Inequality](https://www.canva.com/desi
 
 Video: [Finalist Presentations](https://vimeo.com/653708599)
 
+We wrote about our experience [here](https://medium.com/digital-futures-publications/progress-towards-reducing-global-inequality-4e2f2ed08410).
+
 ## Introduction
 TrueCue and Women+Data Hackathon is an annual women's only hackathon. The topic for 2021 was sustainability.
 
